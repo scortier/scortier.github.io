@@ -382,6 +382,13 @@ input[type="submit"]:focus {
   margin: 5px 0;
   line-height: 1.2em;
 }
+.header-titles h5 {
+  font-size: 16px;
+  font-weight: 300;
+  color: #bbb;
+  margin: 5px 0;
+  line-height: 1.2em;
+}
 .social-links {
   margin: 20px 0;
 }
